@@ -14,3 +14,6 @@ Esse projeto utiliza:
 
 O aplicativo funciona abrindo uma tela principal você escolhendo o que você deseja cadastrar.
 
+Como fazer funcionar:
+
+De run no arquivo "TelaPrincipal.java"
